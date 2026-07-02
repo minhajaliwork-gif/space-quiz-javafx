@@ -1,5 +1,4 @@
 # SolarExplorer-app-javafx
-JavaFX educational quiz game for children using MVC architecture and the Factory Design Pattern
 
 This app was designed as an educational solar system quiz game for primary school 
 children. A solar System is drawn on the screen with the sun at the centre and coloured 
